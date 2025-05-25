@@ -1,4 +1,4 @@
-# blinkit-retail-analytics
+# blinkit-powerbi-retail-analytics
 Retail Performance Analysis: Business Questions:
 
 1.What is the overall sales performance in terms of total sales, average sales, and number of items sold across all outlet types?
