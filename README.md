@@ -1,5 +1,6 @@
 # blinkit-retail-analytics
 Retail Performance Analysis: Business Questions:
+
 1.What is the overall sales performance in terms of total sales, average sales, and number of items sold across all outlet types?
 
 2.Which item types contribute the most to total sales, and how are they distributed across categories like fruits, snacks, dairy, and household products?
@@ -19,6 +20,7 @@ Retail Performance Analysis: Business Questions:
 9.Are there any underperforming outlet types or item categories that have high item counts but low sales or ratings?
 
 10.Based on sales trends, outlet performance, and customer preferences, what strategic actions can Blinkit take to improve sales and customer satisfaction in specific tiers or outlet types?
+
 Blinkit Sales Dashboard Insights:
 -Total Sales: ₹1.20M
 
