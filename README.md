@@ -22,6 +22,7 @@ Retail Performance Analysis: Business Questions:
 10.Based on sales trends, outlet performance, and customer preferences, what strategic actions can Blinkit take to improve sales and customer satisfaction in specific tiers or outlet types?
 
 Blinkit Sales Dashboard Insights:
+
 -Total Sales: ₹1.20M
 
 -Product Catalog: 9K items
